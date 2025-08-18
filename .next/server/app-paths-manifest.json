@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/auth-redirect/page": "app/auth-redirect/page.js",
+  "/access-denied/page": "app/access-denied/page.js",
+  "/sign-in/[[...rest]]/page": "app/sign-in/[[...rest]]/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/firm/dashboard/page": "app/firm/dashboard/page.js"
+}
